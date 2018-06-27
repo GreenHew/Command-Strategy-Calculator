@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<commands>
+    <MultiplyCommand>
+        <op>8.0 * 9.0 = 72.0</op>
+    </MultiplyCommand>
+    <AddCommand>
+        <op>72.0 + 3.0 = 75.0</op>
+    </AddCommand>
+    <MultiplyCommand>
+        <op>75.0 * 5.0 = 375.0</op>
+    </MultiplyCommand>
+    <SubtractCommand>
+        <op>375.0 - 6.0 = 369.0</op>
+    </SubtractCommand>
+    <DivideCommand>
+        <op>369.0 / 9.0 = 41.0</op>
+    </DivideCommand>
+    <AddCommand>
+        <op>41.0 + 3.0 = 44.0</op>
+    </AddCommand>
+    <MultiplyCommand>
+        <op>44.0 * 3.23 = 142.12</op>
+    </MultiplyCommand>
+    <AddCommand>
+        <op>142.12 + 6.0 = 148.12</op>
+    </AddCommand>
+    <PlusMinusCommand>
+        <op>(-)9.0 = -9.0</op>
+    </PlusMinusCommand>
+    <UndoCommand>
+        <op>command undone</op>
+    </UndoCommand>
+    <UndoCommand>
+        <op>command undone</op>
+    </UndoCommand>
+    <MultiplyCommand>
+        <op>142.12 * 142.12 = 20198.0944</op>
+    </MultiplyCommand>
+    <SubtractCommand>
+        <op>20198.0944 - 9.0 = 20189.0944</op>
+    </SubtractCommand>
+    <MultiplyCommand>
+        <op>20189.0944 * 6.0 = 121134.56640000001</op>
+    </MultiplyCommand>
+    <UndoCommand>
+        <op>command undone</op>
+    </UndoCommand>
+    <DivideCommand>
+        <op>20189.0944 / 20189.0944 = 1.0</op>
+    </DivideCommand>
+    <AddCommand>
+        <op>1.0 + 2.0 = 3.0</op>
+    </AddCommand>
+    <MultiplyCommand>
+        <op>3.0 * 3.0 = 9.0</op>
+    </MultiplyCommand>
+</commands>
